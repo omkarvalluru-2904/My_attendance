@@ -1,5 +1,71 @@
 {
   "last_percent": "88.36",
-  "last_checked_at": "2026-05-16 01:44:41",
-  "subjects": {}
+  "last_checked_at": "2026-05-16 07:46:11",
+  "subjects": {
+    "Heat Transfer": {
+      "held": 47,
+      "present": 45,
+      "percent": "95.7"
+    },
+    "Artificial Intelligence and Machine Learning": {
+      "held": 42,
+      "present": 34,
+      "percent": "81.0"
+    },
+    "Finite Element Methods": {
+      "held": 42,
+      "present": 36,
+      "percent": "85.7"
+    },
+    "Renewable Energy Technologies": {
+      "held": 44,
+      "present": 35,
+      "percent": "79.5"
+    },
+    "Refrigeration and Air Conditioning": {
+      "held": 45,
+      "present": 40,
+      "percent": "88.9"
+    },
+    "Utilization of Electrical Energy": {
+      "held": 17,
+      "present": 15,
+      "percent": "88.2"
+    },
+    "Heat Transfer Lab": {
+      "held": 48,
+      "present": 42,
+      "percent": "87.5"
+    },
+    "Artificial Intelligence and Machine Learning Lab": {
+      "held": 39,
+      "present": 33,
+      "percent": "84.6"
+    },
+    "Robotics and Drone Technologies Lab": {
+      "held": 48,
+      "present": 48,
+      "percent": "100.0"
+    },
+    "Technical Paper Writing & IPR": {
+      "held": 28,
+      "present": 24,
+      "percent": "85.7"
+    },
+    "ASSOCIATION": {
+      "held": 15,
+      "present": 14,
+      "percent": "93.3"
+    },
+    "Technical Training": {
+      "held": 33,
+      "present": 29,
+      "percent": "87.9"
+    },
+    "English Certification Course": {
+      "held": 33,
+      "present": 30,
+      "percent": "90.9"
+    }
+  }
 }
