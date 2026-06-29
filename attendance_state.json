@@ -1,5 +1,11 @@
 {
-  "last_percent": "2017",
-  "last_checked_at": "2026-06-29 07:19:19",
-  "subjects": {}
+  "last_percent": "100",
+  "last_checked_at": "2026-06-29 12:54:19",
+  "subjects": {
+    "Operations Research": {
+      "held": 1,
+      "present": 1,
+      "percent": "100.0"
+    }
+  }
 }
