@@ -1,10 +1,10 @@
 {
   "last_percent": "100",
-  "last_checked_at": "2026-06-30 06:43:10",
+  "last_checked_at": "2026-06-30 11:37:47",
   "subjects": {
     "Operations Research": {
-      "held": 1,
-      "present": 1,
+      "held": 2,
+      "present": 2,
       "percent": "100.0"
     },
     "Mechatronics": {
@@ -13,6 +13,16 @@
       "percent": "100.0"
     },
     "Smart Manufacturing": {
+      "held": 1,
+      "present": 1,
+      "percent": "100.0"
+    },
+    "Evaluation of Industry Internship /Mini Project": {
+      "held": 2,
+      "present": 2,
+      "percent": "100.0"
+    },
+    "Constitution of India": {
       "held": 1,
       "present": 1,
       "percent": "100.0"
