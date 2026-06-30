@@ -1,6 +1,6 @@
 {
   "last_percent": "100",
-  "last_checked_at": "2026-06-30 13:49:46",
+  "last_checked_at": "2026-06-30 16:59:51",
   "subjects": {
     "Operations Research": {
       "held": 2,
@@ -8,8 +8,8 @@
       "percent": "100.0"
     },
     "Mechatronics": {
-      "held": 1,
-      "present": 1,
+      "held": 2,
+      "present": 2,
       "percent": "100.0"
     },
     "Smart Manufacturing": {
