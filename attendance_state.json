@@ -1,6 +1,6 @@
 {
   "last_percent": "100",
-  "last_checked_at": "2026-07-01 07:01:00",
+  "last_checked_at": "2026-07-01 11:48:38",
   "subjects": {
     "Operations Research": {
       "held": 2,
@@ -13,6 +13,16 @@
       "percent": "100.0"
     },
     "Smart Manufacturing": {
+      "held": 1,
+      "present": 1,
+      "percent": "100.0"
+    },
+    "Disaster Management": {
+      "held": 1,
+      "present": 1,
+      "percent": "100.0"
+    },
+    "Mechatronics Lab": {
       "held": 1,
       "present": 1,
       "percent": "100.0"
