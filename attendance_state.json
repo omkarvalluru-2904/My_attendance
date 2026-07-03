@@ -1,6 +1,6 @@
 {
   "last_percent": "100",
-  "last_checked_at": "2026-07-03 06:19:11",
+  "last_checked_at": "2026-07-03 13:28:17",
   "subjects": {
     "Operations Research": {
       "held": 3,
@@ -8,13 +8,13 @@
       "percent": "100.0"
     },
     "Mechatronics": {
-      "held": 3,
-      "present": 3,
+      "held": 4,
+      "present": 4,
       "percent": "100.0"
     },
     "Smart Manufacturing": {
-      "held": 2,
-      "present": 2,
+      "held": 3,
+      "present": 3,
       "percent": "100.0"
     },
     "Disaster Management": {
@@ -30,6 +30,16 @@
     "Evaluation of Industry Internship /Mini Project": {
       "held": 2,
       "present": 2,
+      "percent": "100.0"
+    },
+    "TUTORIAL": {
+      "held": 2,
+      "present": 2,
+      "percent": "100.0"
+    },
+    "MAINPROJECT/TRAINING": {
+      "held": 3,
+      "present": 3,
       "percent": "100.0"
     },
     "Constitution of India": {
