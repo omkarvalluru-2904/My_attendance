@@ -1,20 +1,20 @@
 {
   "last_percent": "100",
-  "last_checked_at": "2026-07-07 06:33:45",
+  "last_checked_at": "2026-07-07 11:35:58",
   "subjects": {
     "CAD/CAM": {
-      "held": 1,
-      "present": 1,
+      "held": 2,
+      "present": 2,
       "percent": "100.0"
     },
     "Operations Research": {
-      "held": 4,
-      "present": 4,
+      "held": 5,
+      "present": 5,
       "percent": "100.0"
     },
     "Mechatronics": {
-      "held": 5,
-      "present": 5,
+      "held": 6,
+      "present": 6,
       "percent": "100.0"
     },
     "Smart Manufacturing": {
@@ -38,8 +38,8 @@
       "percent": "100.0"
     },
     "Evaluation of Industry Internship /Mini Project": {
-      "held": 2,
-      "present": 2,
+      "held": 4,
+      "present": 4,
       "percent": "100.0"
     },
     "TUTORIAL": {
