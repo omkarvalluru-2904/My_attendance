@@ -1,6 +1,6 @@
 {
-  "last_percent": "96.36",
-  "last_checked_at": "2026-07-10 01:25:44",
+  "last_percent": "96.49",
+  "last_checked_at": "2026-07-10 06:31:05",
   "subjects": {
     "CAD/CAM": {
       "held": 2,
@@ -13,8 +13,8 @@
       "percent": "100.0"
     },
     "Mechatronics": {
-      "held": 7,
-      "present": 7,
+      "held": 8,
+      "present": 8,
       "percent": "100.0"
     },
     "Smart Manufacturing": {
@@ -58,8 +58,8 @@
       "percent": "100.0"
     },
     "Constitution of India": {
-      "held": 3,
-      "present": 3,
+      "held": 4,
+      "present": 4,
       "percent": "100.0"
     }
   }
