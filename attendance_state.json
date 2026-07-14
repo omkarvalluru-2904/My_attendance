@@ -1,6 +1,6 @@
 {
-  "last_percent": "94.37",
-  "last_checked_at": "2026-07-14 16:06:58",
+  "last_percent": "94.52",
+  "last_checked_at": "2026-07-14 18:58:17",
   "subjects": {
     "CAD/CAM": {
       "held": 4,
@@ -38,8 +38,8 @@
       "percent": "100.0"
     },
     "Evaluation of Industry Internship /Mini Project": {
-      "held": 4,
-      "present": 4,
+      "held": 6,
+      "present": 6,
       "percent": "100.0"
     },
     "TUTORIAL": {
