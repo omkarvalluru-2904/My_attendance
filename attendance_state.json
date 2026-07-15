@@ -1,6 +1,6 @@
 {
-  "last_percent": "94.52",
-  "last_checked_at": "2026-07-15 05:20:12",
+  "last_percent": "93.24",
+  "last_checked_at": "2026-07-15 07:46:46",
   "subjects": {
     "CAD/CAM": {
       "held": 4,
@@ -58,9 +58,9 @@
       "percent": "100.0"
     },
     "Constitution of India": {
-      "held": 5,
+      "held": 6,
       "present": 5,
-      "percent": "100.0"
+      "percent": "83.3"
     }
   }
 }
