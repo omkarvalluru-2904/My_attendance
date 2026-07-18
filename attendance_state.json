@@ -1,6 +1,6 @@
 {
-  "last_percent": "89.01",
-  "last_checked_at": "2026-07-18 07:23:25",
+  "last_percent": "88.42",
+  "last_checked_at": "2026-07-18 10:07:17",
   "subjects": {
     "CAD/CAM": {
       "held": 5,
@@ -23,9 +23,9 @@
       "percent": "70.0"
     },
     "Disaster Management": {
-      "held": 6,
+      "held": 7,
       "present": 5,
-      "percent": "83.3"
+      "percent": "71.4"
     },
     "CAD/CAM Lab": {
       "held": 6,
@@ -43,13 +43,13 @@
       "percent": "100.0"
     },
     "TUTORIAL": {
-      "held": 8,
-      "present": 8,
+      "held": 10,
+      "present": 10,
       "percent": "100.0"
     },
     "ASSOCIATION": {
-      "held": 1,
-      "present": 1,
+      "held": 2,
+      "present": 2,
       "percent": "100.0"
     },
     "MAINPROJECT/TRAINING": {
