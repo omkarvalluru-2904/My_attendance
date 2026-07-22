@@ -1,6 +1,6 @@
 {
-  "last_percent": "88.18",
-  "last_checked_at": "2026-07-22 08:03:36",
+  "last_percent": "88.7",
+  "last_checked_at": "2026-07-22 10:56:07",
   "subjects": {
     "CAD/CAM": {
       "held": 7,
@@ -18,9 +18,9 @@
       "percent": "92.9"
     },
     "Smart Manufacturing": {
-      "held": 12,
-      "present": 8,
-      "percent": "66.7"
+      "held": 13,
+      "present": 9,
+      "percent": "69.2"
     },
     "Disaster Management": {
       "held": 8,
@@ -33,9 +33,9 @@
       "percent": "100.0"
     },
     "Mechatronics Lab": {
-      "held": 12,
-      "present": 8,
-      "percent": "66.7"
+      "held": 16,
+      "present": 12,
+      "percent": "75.0"
     },
     "Evaluation of Industry Internship /Mini Project": {
       "held": 8,
