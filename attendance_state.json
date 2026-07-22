@@ -1,6 +1,6 @@
 {
-  "last_percent": "88.07",
-  "last_checked_at": "2026-07-22 05:37:55",
+  "last_percent": "88.18",
+  "last_checked_at": "2026-07-22 08:03:36",
   "subjects": {
     "CAD/CAM": {
       "held": 7,
@@ -23,9 +23,9 @@
       "percent": "66.7"
     },
     "Disaster Management": {
-      "held": 7,
-      "present": 5,
-      "percent": "71.4"
+      "held": 8,
+      "present": 6,
+      "percent": "75.0"
     },
     "CAD/CAM Lab": {
       "held": 9,
