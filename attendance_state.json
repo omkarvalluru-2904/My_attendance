@@ -1,6 +1,6 @@
 {
-  "last_percent": "89.43",
-  "last_checked_at": "2026-07-23 10:55:58",
+  "last_percent": "89.52",
+  "last_checked_at": "2026-07-23 13:18:47",
   "subjects": {
     "CAD/CAM": {
       "held": 7,
@@ -13,9 +13,9 @@
       "percent": "91.7"
     },
     "Mechatronics": {
-      "held": 14,
-      "present": 13,
-      "percent": "92.9"
+      "held": 15,
+      "present": 14,
+      "percent": "93.3"
     },
     "Smart Manufacturing": {
       "held": 13,
