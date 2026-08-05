@@ -1,6 +1,6 @@
 {
-  "last_percent": "82.97",
-  "last_checked_at": "2026-08-05 16:25:04",
+  "last_percent": "82.51",
+  "last_checked_at": "2026-08-05 19:08:58",
   "subjects": {
     "CAD/CAM": {
       "held": 13,
@@ -33,9 +33,9 @@
       "percent": "83.3"
     },
     "Mechatronics Lab": {
-      "held": 23,
+      "held": 24,
       "present": 16,
-      "percent": "69.6"
+      "percent": "66.7"
     },
     "Evaluation of Industry Internship /Mini Project": {
       "held": 12,
