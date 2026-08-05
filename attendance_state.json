@@ -1,11 +1,11 @@
 {
-  "last_percent": "85.31",
-  "last_checked_at": "2026-08-05 05:35:11",
+  "last_percent": "84.36",
+  "last_checked_at": "2026-08-05 08:11:47",
   "subjects": {
     "CAD/CAM": {
-      "held": 12,
+      "held": 13,
       "present": 10,
-      "percent": "83.3"
+      "percent": "76.9"
     },
     "Operations Research": {
       "held": 17,
@@ -23,9 +23,9 @@
       "percent": "77.8"
     },
     "Disaster Management": {
-      "held": 13,
+      "held": 14,
       "present": 9,
-      "percent": "69.2"
+      "percent": "64.3"
     },
     "CAD/CAM Lab": {
       "held": 18,
