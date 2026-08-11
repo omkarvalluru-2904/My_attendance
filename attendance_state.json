@@ -1,6 +1,6 @@
 {
-  "last_percent": "84.06",
-  "last_checked_at": "2026-08-10 21:29:42",
+  "last_percent": "84.43",
+  "last_checked_at": "2026-08-11 18:42:18",
   "subjects": {
     "CAD/CAM": {
       "held": 15,
@@ -8,14 +8,14 @@
       "percent": "80.0"
     },
     "Operations Research": {
-      "held": 19,
-      "present": 18,
-      "percent": "94.7"
+      "held": 20,
+      "present": 19,
+      "percent": "95.0"
     },
     "Mechatronics": {
-      "held": 24,
-      "present": 20,
-      "percent": "83.3"
+      "held": 25,
+      "present": 21,
+      "percent": "84.0"
     },
     "Smart Manufacturing": {
       "held": 20,
@@ -38,8 +38,8 @@
       "percent": "66.7"
     },
     "Evaluation of Industry Internship /Mini Project": {
-      "held": 12,
-      "present": 12,
+      "held": 14,
+      "present": 14,
       "percent": "100.0"
     },
     "TUTORIAL": {
@@ -58,9 +58,9 @@
       "percent": "100.0"
     },
     "Constitution of India": {
-      "held": 12,
-      "present": 11,
-      "percent": "91.7"
+      "held": 13,
+      "present": 12,
+      "percent": "92.3"
     }
   }
 }
