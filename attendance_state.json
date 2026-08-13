@@ -1,6 +1,6 @@
 {
-  "last_percent": "84.86",
-  "last_checked_at": "2026-08-13 04:43:22",
+  "last_percent": "85",
+  "last_checked_at": "2026-08-13 07:06:47",
   "subjects": {
     "CAD/CAM": {
       "held": 15,
@@ -8,9 +8,9 @@
       "percent": "80.0"
     },
     "Operations Research": {
-      "held": 20,
-      "present": 19,
-      "percent": "95.0"
+      "held": 21,
+      "present": 20,
+      "percent": "95.2"
     },
     "Mechatronics": {
       "held": 25,
@@ -23,9 +23,9 @@
       "percent": "81.0"
     },
     "Disaster Management": {
-      "held": 18,
-      "present": 13,
-      "percent": "72.2"
+      "held": 19,
+      "present": 14,
+      "percent": "73.7"
     },
     "CAD/CAM Lab": {
       "held": 21,
