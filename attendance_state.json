@@ -1,16 +1,16 @@
 {
-  "last_percent": "83.6",
-  "last_checked_at": "2026-09-16 23:19:36",
+  "last_percent": "83.73",
+  "last_checked_at": "2026-09-22 02:03:12",
   "subjects": {
     "CAD/CAM": {
-      "held": 22,
-      "present": 16,
-      "percent": "72.7"
+      "held": 24,
+      "present": 17,
+      "percent": "70.8"
     },
     "Operations Research": {
-      "held": 30,
-      "present": 28,
-      "percent": "93.3"
+      "held": 32,
+      "present": 30,
+      "percent": "93.8"
     },
     "Mechatronics": {
       "held": 30,
@@ -18,19 +18,19 @@
       "percent": "76.7"
     },
     "Smart Manufacturing": {
-      "held": 28,
-      "present": 22,
-      "percent": "78.6"
+      "held": 31,
+      "present": 25,
+      "percent": "80.6"
     },
     "Disaster Management": {
-      "held": 27,
-      "present": 21,
-      "percent": "77.8"
+      "held": 29,
+      "present": 22,
+      "percent": "75.9"
     },
     "CAD/CAM Lab": {
-      "held": 27,
-      "present": 24,
-      "percent": "88.9"
+      "held": 30,
+      "present": 27,
+      "percent": "90.0"
     },
     "Mechatronics Lab": {
       "held": 44,
@@ -43,24 +43,24 @@
       "percent": "100.0"
     },
     "TUTORIAL": {
-      "held": 28,
-      "present": 24,
-      "percent": "85.7"
+      "held": 32,
+      "present": 28,
+      "percent": "87.5"
     },
     "ASSOCIATION": {
-      "held": 7,
+      "held": 8,
       "present": 4,
-      "percent": "57.1"
+      "percent": "50.0"
     },
     "MAINPROJECT/TRAINING": {
-      "held": 30,
-      "present": 30,
+      "held": 33,
+      "present": 33,
       "percent": "100.0"
     },
     "Constitution of India": {
-      "held": 18,
-      "present": 16,
-      "percent": "88.9"
+      "held": 19,
+      "present": 17,
+      "percent": "89.5"
     }
   }
 }
