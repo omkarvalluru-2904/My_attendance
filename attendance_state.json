@@ -1,11 +1,11 @@
 {
-  "last_percent": "82.15",
-  "last_checked_at": "2026-09-25 14:14:54",
+  "last_percent": "81.92",
+  "last_checked_at": "2026-09-25 18:59:43",
   "subjects": {
     "CAD/CAM": {
-      "held": 25,
+      "held": 26,
       "present": 18,
-      "percent": "72.0"
+      "percent": "69.2"
     },
     "Operations Research": {
       "held": 34,
