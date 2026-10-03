@@ -1,11 +1,11 @@
 {
-  "last_percent": "81.46",
-  "last_checked_at": "2026-10-03 08:37:53",
+  "last_percent": "80.21",
+  "last_checked_at": "2026-10-03 14:00:33",
   "subjects": {
     "CAD/CAM": {
-      "held": 28,
+      "held": 29,
       "present": 18,
-      "percent": "64.3"
+      "percent": "62.1"
     },
     "Operations Research": {
       "held": 38,
@@ -18,14 +18,14 @@
       "percent": "76.7"
     },
     "Smart Manufacturing": {
-      "held": 35,
+      "held": 36,
       "present": 28,
-      "percent": "80.0"
+      "percent": "77.8"
     },
     "Disaster Management": {
-      "held": 34,
+      "held": 35,
       "present": 25,
-      "percent": "73.5"
+      "percent": "71.4"
     },
     "CAD/CAM Lab": {
       "held": 33,
@@ -43,14 +43,14 @@
       "percent": "100.0"
     },
     "TUTORIAL": {
-      "held": 36,
+      "held": 38,
       "present": 30,
-      "percent": "83.3"
+      "percent": "78.9"
     },
     "ASSOCIATION": {
-      "held": 9,
+      "held": 10,
       "present": 5,
-      "percent": "55.6"
+      "percent": "50.0"
     },
     "MAINPROJECT/TRAINING": {
       "held": 39,
