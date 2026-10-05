@@ -1,6 +1,6 @@
 {
-  "last_percent": "80.21",
-  "last_checked_at": "2026-10-05 02:36:38",
+  "last_percent": "80.36",
+  "last_checked_at": "2026-10-05 09:41:31",
   "subjects": {
     "CAD/CAM": {
       "held": 29,
@@ -28,9 +28,9 @@
       "percent": "71.4"
     },
     "CAD/CAM Lab": {
-      "held": 33,
-      "present": 30,
-      "percent": "90.9"
+      "held": 36,
+      "present": 33,
+      "percent": "91.7"
     },
     "Mechatronics Lab": {
       "held": 52,
