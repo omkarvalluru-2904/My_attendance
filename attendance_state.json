@@ -1,6 +1,6 @@
 {
-  "last_percent": "80.3",
-  "last_checked_at": "2026-10-08 00:31:05",
+  "last_percent": "80.49",
+  "last_checked_at": "2026-10-09 00:44:57",
   "subjects": {
     "CAD/CAM": {
       "held": 30,
@@ -8,9 +8,9 @@
       "percent": "60.0"
     },
     "Operations Research": {
-      "held": 40,
-      "present": 35,
-      "percent": "87.5"
+      "held": 41,
+      "present": 36,
+      "percent": "87.8"
     },
     "Mechatronics": {
       "held": 30,
@@ -53,9 +53,9 @@
       "percent": "50.0"
     },
     "MAINPROJECT/TRAINING": {
-      "held": 39,
-      "present": 33,
-      "percent": "84.6"
+      "held": 42,
+      "present": 36,
+      "percent": "85.7"
     },
     "Constitution of India": {
       "held": 24,
